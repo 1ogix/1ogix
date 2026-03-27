@@ -2,7 +2,7 @@
 
 <!-- Will replace soon with my illustrated avatar -->
 <p align="center">
-  <img src="9.jpg" width="150" style="border-radius:50%; animation: float 3s ease-in-out infinite;"/>
+  <img src="9.jpg" width="150" style="border-radius:50%"/>
 </p>
 
 # Alan Anthony Rubi
