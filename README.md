@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Will replace soon with my illustrated avatar -->
-<img src="9.jpg" width="120" style="border-radius:50%"/>
+<p align="center">
+  <img src="9.jpg" width="150" style="border-radius:50%; animation: float 3s ease-in-out infinite;"/>
+</p>
 
 # Alan Anthony Rubi
 
