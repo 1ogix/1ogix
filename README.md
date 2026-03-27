@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Will replace soon with my illustrated avatar -->
-<img src="https://aarportfolio.vercel.app/_next/image?url=%2F9.jpeg&w=400&q=75" width="120" style="border-radius:50%"/>
+<img src="9.jpg" width="120" style="border-radius:50%"/>
 
 # Alan Anthony Rubi
 
