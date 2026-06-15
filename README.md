@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Will replace soon with my illustrated avatar -->
-<p align="center">
+<!-- <p align="center">
   <img src="9.jpg" width="350" style="border-radius:50%"/>
-</p>
+</p> -->
 
 # Alan Anthony Rubi
 
