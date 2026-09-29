@@ -7,7 +7,7 @@
 
 # Alan Anthony Rubi
 
-`// Full-Stack Developer · Web & Mobile · AI-Assisted Products`
+`// Full-Stack Developer · Web & Mobile · AI-Assisted Engineer`
 
 ![Profile Views](https://komarev.com/ghpvc/?username=1ogix&color=0077b6&style=flat-square&label=PROFILE+VIEWS)
 
